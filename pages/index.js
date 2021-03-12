@@ -3,8 +3,8 @@ import {useState} from 'react';
 function Home() {
     return (
         <div>
-            <h1>Olá! Tudo bem?</h1>
-            <Contador />
+            <h1>Olá!</h1>
+            {/* <Contador /> */}
         </div>
     )
 }
